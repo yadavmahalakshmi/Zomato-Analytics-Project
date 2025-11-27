@@ -1,4 +1,4 @@
-## Zomato Analytics and Business Insights Project
+### Zomato Analytics and Business Insights Project
 Data analytics project using Excel, Power BI, Tableau, and SQL.
 
 # Project Overview
